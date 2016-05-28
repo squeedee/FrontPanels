@@ -20,4 +20,11 @@ I also need a quick way to mock up and try a layout.
 
 # Dont
 
-Get a Dremel. It's just not worth it. It's an expensive toy that's full of [lag](https://en.wikipedia.org/wiki/Backlash_(engineering))
+Do not get a [Dremel](https://www.dremel.com/en-us/Tools/Pages/CategoryProducts.aspx?catid=2013). It's just not worth it.
+
+It's an expensive toy that's addons are full of [backlash](https://en.wikipedia.org/wiki/Backlash_(engineering)). 
+
+The dremel rotary tool itself isn't too bad, but it's plastic and prone to wear. It's also [gutless](http://www.urbandictionary.com/define.php?term=gutless).
+
+I bought the [plunge router attachment](https://www.dremel.com/en-us/Attachments/Pages/ProductDetail.aspx?pid=335-01) and the [drill press](https://www.dremel.com/en-us/Attachments/Pages/ProductDetail.aspx?pid=220-01), so I went all in... just a waste of money.
+
